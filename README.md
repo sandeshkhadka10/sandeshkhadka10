@@ -5,11 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeshkhadka10&label=Profile%20views&color=0e75b6&style=flat" alt="sandeshkhadka10" /> </p>
 
-- 🌱 I’m currently learning **C-programming.**
+- 🌱 I’m currently learning **C++ programming.**
 
 - 📫 How to reach me **sandeshkhadka551@gmail.com**
 
-- ⚡ Fun fact **I am funny😅.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
