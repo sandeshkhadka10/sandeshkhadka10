@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeshkhadka10&label=Profile%20views&color=0e75b6&style=flat" alt="sandeshkhadka10" /> </p>
 
-- 🔭 I’m currently working on **Student Management System**
-
 - 🌱 I’m currently learning **C++.**
 
 - 📫 How to reach me **sandeshkhadka551@gmail.com**
