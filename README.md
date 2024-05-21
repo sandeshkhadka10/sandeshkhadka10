@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hi, I'm Sandesh Khadka.
 I'm currently working on spotify clone.<br>I'm going to learn javascript.<br>
 
 
