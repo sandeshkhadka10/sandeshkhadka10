@@ -1,7 +1,5 @@
 # 💫 About Me:
-Hi, I'm Sandesh Khadka.
-I'm currently working on spotify clone.<br>I'm going to learn javascript.<br>
-
+Hi 👋, I'm Sandesh Khadka.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/dsfdas.asdasd.58/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sandesh_s2004/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/ATT_KHADKA) 
